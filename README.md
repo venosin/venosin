@@ -1,8 +1,12 @@
 ## 🌐 Full-Stack Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portafolio-Astro-blue?style=for-the-badge&logo=astro&logoColor=white)](https://tusitio.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venosin)
+[![Portfolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://https://portfolio-vn-five.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sdaniel_p)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/.venosin)
+
+---
+
 
 ---
 
