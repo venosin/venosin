@@ -8,7 +8,7 @@
 
 ### 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?venosin=tuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venosin&layout=compact&theme=radical)
 
 ---
 
