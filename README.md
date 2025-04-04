@@ -8,7 +8,12 @@
 
 ### 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venosin&layout=compact&theme=radical)
+![Top Langs]<a href="https://github.com/venosin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venosin" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venosin&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
