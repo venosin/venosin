@@ -8,7 +8,7 @@
 
 ### 🚀 Most Used Languages
 
-![Top Langs]<a href="https://github.com/venosin/github-readme-stats">
+<a href="https://github.com/venosin/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venosin" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
