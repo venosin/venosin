@@ -50,7 +50,7 @@
 
 ### 🧁 Foodies
 Un sitio web moderno de recomendaciones culinarias. **Diseño responsive y lleno de sabor.**
-> ⚙️ *Stack:* Laravel + Tailwind CSS  
+> ⚙️ *Stack:* Next.js + Tailwind CSS  
 
 ### 🏝️ Las Coloradas Travel Site
 Página turística enfocada en mejorar la experiencia del viajero.
@@ -58,7 +58,7 @@ Página turística enfocada en mejorar la experiencia del viajero.
 
 ### 🦷 Clínica Dental App *(En desarrollo)*
 Sitio web profesional para una clínica dental con enfoque en innovación y usabilidad.
-> ⚙️ *Stack:* MERN | Landing + CRUD + Reviews con carrusel
+> ⚙️ *Stack:* MERN | Landing + CRUD + 
 
 ---
 
