@@ -1,7 +1,5 @@
-# 💻 Hey! Soy [Tu Nombre o Nick] 👋
+# 💻 Hey! Soy Venosin 👋
 
-### 👨‍💻 Estudiante de Bachillerato Técnico en Software  
-🎓 Instituto Técnico Ricaldone  
 📍 El Salvador | 🧠 Apasionado por el desarrollo web moderno
 
 ---
@@ -48,13 +46,6 @@
 - ⚡ Integraciones frontend-backend con React
 - 🧠 Mejores prácticas para APIs REST y MongoDB
 
----
-
-## 🎯 Mis objetivos
-
-- Crear sitios que no solo funcionen, ¡sino que también se vean increíbles! ✨  
-- Aprender tecnologías modernas y llevar mis ideas al siguiente nivel 🚀  
-- Compartir y crecer en comunidad 🤝
 
 ---
 
@@ -66,4 +57,4 @@
 
 ---
 
-🧠 *"Sigo aprendiendo, construyendo y soñando en código..."*
+
