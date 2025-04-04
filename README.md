@@ -1,101 +1,66 @@
-# 💻 Hey! Soy Venosin 👋  
+## 🌐 Full-Stack Developer
 
-🚀 En proceso de convertirme en **Full Stack Developer**  
-📍 El Salvador | 🧠 Apasionado por el desarrollo web moderno  
-
----
-
-## 🌐 Conéctate conmigo  
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/tuusuario)  
-[![Portfolio](https://img.shields.io/badge/Portafolio-Astro-blue?style=for-the-badge&logo=astro&logoColor=white)](https://tusitio.com)  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/tuusuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Astro-blue?style=for-the-badge&logo=astro&logoColor=white)](https://tusitio.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tuusuario)
 
 ---
 
-## 📌 Lenguajes que más uso  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=javascript,php,java,python" />
-</div>
+### 🚀 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
 ---
 
-## 👨‍💻 About Me  
+## 📝 About Me
 
-🔹 Soy un desarrollador en formación con pasión por la creación de **sitios web modernos, funcionales e innovadores**.  
-🔹 Me encanta aprender nuevas tecnologías y mejorar la experiencia de usuario con **diseño y funcionalidad**.  
-🔹 Actualmente, me especializo en el stack **MERN**, pero también tengo experiencia con **Laravel** y **Astro**.  
-🔹 Fanático de la tecnología y la automatización, me gusta mantenerme al día con las tendencias del desarrollo web.  
-
----
-
-## 🏆 Experiencia & Cursos  
-
-✅ **Experiencia Profesional:**  
-💼 Desarrollo de sitios web y aplicaciones en **Laravel**, **React**, y **Node.js**.  
-💼 Creación de sistemas con bases de datos como **MongoDB** y **MySQL**.  
-💼 Desarrollo de interfaces responsivas y dinámicas con **Tailwind CSS**.  
-
-✅ **Cursos Completados:**  
-🎓 **Certificaciones de Cisco:** Redes y fundamentos de ciberseguridad.  
+💻 Soy un desarrollador en formación con pasión por la creación de **sitios web modernos, funcionales e innovadores**.
+📍 Actualmente, especializándome en **MERN Stack**, con experiencia en **Laravel** y **Astro**.
+🎨 Me encanta mejorar la **experiencia de usuario** con UI/UX bien trabajada.
+🧠 Siempre aprendiendo nuevas tecnologías para mejorar mis proyectos.
 
 ---
 
-## 🛠️ Tech Stack  
+## 💼 Professional Experience & Certifications
 
-### 🎨 **Frontend**  
-<div align="left">
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>  
-<a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>  
-<a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>  
-</div>
+✅ **Experiencia Profesional:**
+- Desarrollo de sitios web en **Laravel, React y Node.js**.
+- Creación de sistemas con bases de datos como **MongoDB y MySQL**.
+- Desarrollo de interfaces responsivas y dinámicas con **Tailwind CSS**.
 
-### 🖥️ **Backend**  
-<div align="left">
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>  
-<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>  
-<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>  
-</div>
-
-### 🗄️ **Bases de Datos**  
-<div align="left">
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>  
-</div>
-
-### 🧩 **Herramientas & Otros**  
-<div align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>  
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>  
-</div>
+✅ **Cursos Completados:**
+- 🎓 Certificaciones de **Cisco** en Redes y Ciberseguridad.
 
 ---
 
-## 🏗️ Proyectos en los que estoy trabajando  
+## ⚡ Tech Stack
 
-🚀 **Clínica Dental App** *(En desarrollo)*  
-> Aplicación web innovadora para una clínica dental, enfocada en facilidad de uso y diseño profesional.  
-> ⚙️ *Stack:* MERN | Landing + CRUD + Reviews con carrusel  
+| Frontend | Backend | Bases de Datos | Herramientas |
+|----------|---------|---------------|--------------|
+| ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Astro](https://skillicons.dev/icons?i=astro) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Laravel](https://skillicons.dev/icons?i=laravel) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 ---
 
-## 🌟 Proyectos Destacados  
+## 🌟 Featured Projects
 
-🧁 **Foodies**  
-> Un sitio web moderno de recomendaciones culinarias. ¡Diseño responsive y lleno de sabor!  
+### 🧁 Foodies
+Un sitio web moderno de recomendaciones culinarias. **Diseño responsive y lleno de sabor.**
 > ⚙️ *Stack:* Laravel + Tailwind CSS  
 
-🏝️ **Las Coloradas Travel Site**  
-> Página turística enfocada en mejorar la experiencia del viajero.  
+### 🏝️ Las Coloradas Travel Site
+Página turística enfocada en mejorar la experiencia del viajero.
 > ⚙️ *Stack:* Laravel + Tailwind CSS | Inspirado en sitios como atvtourscozumel.com  
+
+### 🦷 Clínica Dental App *(En desarrollo)*
+Sitio web profesional para una clínica dental con enfoque en innovación y usabilidad.
+> ⚙️ *Stack:* MERN | Landing + CRUD + Reviews con carrusel
 
 ---
 
-🧠 *"Sigo aprendiendo, construyendo y soñando en código..."*
+## 📩 Get in Touch
+
+¿Tienes un proyecto en mente o simplemente quieres charlar sobre tecnología? ¡Contáctame!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
