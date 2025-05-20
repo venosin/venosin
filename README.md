@@ -37,7 +37,7 @@
 
 [🔗 Ver repositorio](https://github.com/venosin/foodiescd.git)
 
-<img src="https://raw.githubusercontent.com/venosin/foodiescd/main/public/foodies.webp" alt="Foodies Preview" width="100%" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/venosin/foodiescd/main/public/foodies.webp" alt="Foodies Preview" width="600px" style="border-radius: 10px;" />
 
 ---
 
