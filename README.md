@@ -7,6 +7,11 @@
 
 ---
 
+![Status](https://img.shields.io/badge/En%20desarrollo-OmegaDent-0EB19B?style=flat-square)
+![Role](https://img.shields.io/badge/Role-FullStack-informational?style=flat-square)
+
+---
+
 ## 🧠 About Me
 
 💻 Soy un desarrollador en formación con experiencia previa usando **React, TypeScript y Tailwind CSS** para crear interfaces modernas.  
@@ -16,47 +21,30 @@
 
 ---
 
-## 💼 Experiencia Profesional
+## 🧁 Foodies – Vista previa
 
-- 🔒 **App de Formulario de Clientes**  
-  Frontend privado conectado a Google Sheets mediante Apps Script. Todo el formulario se guarda automáticamente en la hoja.  
-  *Frontend | React + Tailwind*
+> Proyecto para un sitio web de restaurante. Maquetado completo con Next.js + Tailwind.
 
-- 🍽️ [**Foodies**](https://github.com/venosin/foodiescd.git)  
-  Sitio web para restaurante. Creé toda la estructura de la página con **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.  
-  *Frontend completo*
+[🔗 Ver repositorio](https://github.com/venosin/foodiescd.git)
 
-- 📋 [**WorkBuddy - Backend**](https://github.com/venosin/WorkBuddy-backend.git)  
-  [**WorkBuddy - Frontend**](https://github.com/venosin/workbuddy-frontend.git)  
-  Trabajo profesional con el stack **MERN**, donde implementé funcionalidades tanto en frontend como en backend.  
-  *Full-Stack (MongoDB, Express, React, Node.js)*
+<img src="https://raw.githubusercontent.com/venosin/foodiescd/main/public/preview.png" alt="Foodies Preview" width="100%" />
+
+> ⚠️ *Si aún no tienes una imagen en ese path (`/public/preview.png`), súbela a tu repo para que funcione el preview.*
 
 ---
 
-## ⚙️ Tech Stack
+## 📊 GitHub Activity Graph
 
-| Frontend | Backend | Bases de Datos |
-|----------|---------|----------------|
-| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
+> Muestra tu actividad reciente en forma de heatmap (interactivo y profesional)
 
----
-
-## 🦷 Proyecto en Desarrollo: OmegaDent
-
-> Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
-> Incluye **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** con conexión al backend.  
->  
-> ⚙️ *Stack:* MERN + Tailwind CSS
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=venosin&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Stats
+## 🩺 Proyecto en desarrollo: OmegaDent
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venosin&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=venosin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=venosin&theme=tokyonight&hide_border=true" />
-</div>
+Sitio web profesional para una clínica dental con sistema de registro, login y agenda de citas.  
+`Stack:` MERN + Tailwind CSS
 
 ---
 
