@@ -9,34 +9,41 @@
 
 ## 🧠 About Me
 
-💻 Soy un desarrollador en formación con pasión por crear **experiencias web modernas y funcionales**.  
-🧪 Actualmente especializado en **MERN Stack**, con experiencia previa en **Laravel** y **Astro**.  
-🎨 Amante del diseño UX/UI y la creación de interfaces accesibles y responsivas.  
-🚀 En constante aprendizaje de nuevas tecnologías para llevar mis proyectos al siguiente nivel.
+💻 Soy un desarrollador en formación con experiencia previa usando **React, TypeScript y Tailwind CSS** para crear interfaces modernas.  
+🧪 Enfocado en el desarrollo full-stack con **MERN** y pasión por crear **aplicaciones útiles, visuales y funcionales**.  
+🎨 Me motiva trabajar en la experiencia de usuario (UX) y la estructura limpia del código.  
+🚀 Siempre buscando retos reales para crecer y aportar soluciones.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-- Desarrollo de sitios web con **React**, **Node.js** y **Laravel**.
-- Manejo de bases de datos como **MongoDB** y **MySQL**.
-- Interfaces responsivas y modernas usando **Tailwind CSS**.
-- Certificaciones **Cisco** en **Redes** y **Ciberseguridad**.
+- 🔒 **App de Formulario de Clientes**  
+  Frontend privado conectado a Google Sheets mediante Apps Script. Todo el formulario se guarda automáticamente en la hoja.  
+  *Frontend | React + Tailwind*
+
+- 🍽️ [**Foodies**](https://github.com/venosin/foodies)  
+  Sitio web para restaurante. Creé toda la estructura de la página con **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.  
+  *Frontend completo*
+
+- 📋 [**WorkBuddy**](https://github.com/venosin/WorkBuddy)  
+  Trabajo profesional con el stack **MERN**, implementé funcionalidades en frontend y backend.  
+  *Full-Stack (MongoDB, Express, React, Node.js)*
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Frontend | Backend | Base de datos | Herramientas |
-|----------|---------|----------------|--------------|
-| ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Astro](https://skillicons.dev/icons?i=astro) | ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Laravel](https://skillicons.dev/icons?i=laravel) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) |
+| Frontend | Backend | Bases de Datos |
+|----------|---------|----------------|
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 
 ---
 
 ## 🦷 Proyecto en Desarrollo: OmegaDent
 
 > Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
-> Contará con **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** conectado con backend.  
+> Incluye **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** con conexión al backend.  
 >  
 > ⚙️ *Stack:* MERN + Tailwind CSS
 
