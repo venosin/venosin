@@ -22,12 +22,13 @@
   Frontend privado conectado a Google Sheets mediante Apps Script. Todo el formulario se guarda automáticamente en la hoja.  
   *Frontend | React + Tailwind*
 
-- 🍽️ [**Foodies**](https://github.com/venosin/foodies)  
+- 🍽️ [**Foodies**](https://github.com/venosin/foodiescd.git)  
   Sitio web para restaurante. Creé toda la estructura de la página con **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.  
   *Frontend completo*
 
-- 📋 [**WorkBuddy**](https://github.com/venosin/WorkBuddy)  
-  Trabajo profesional con el stack **MERN**, implementé funcionalidades en frontend y backend.  
+- 📋 [**WorkBuddy - Backend**](https://github.com/venosin/WorkBuddy-backend.git)  
+  [**WorkBuddy - Frontend**](https://github.com/venosin/workbuddy-frontend.git)  
+  Trabajo profesional con el stack **MERN**, donde implementé funcionalidades tanto en frontend como en backend.  
   *Full-Stack (MongoDB, Express, React, Node.js)*
 
 ---
@@ -61,6 +62,6 @@
 
 ## 📩 Get in Touch
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven0palacios@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven0palacios@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venosin)
