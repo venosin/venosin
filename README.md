@@ -3,10 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+venosin;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venosin)
-[![Portfolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vn-five.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sdaniel_p)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/.venosin)
+<p align="center">
+  <a href="https://github.com/venosin"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-vn-five.vercel.app"><img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://instagram.com/sdaniel_p"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/.venosin"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
