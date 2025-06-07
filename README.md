@@ -1,8 +1,3 @@
-¡Perfecto! Aquí tienes tu README con el encabezado “Full-Stack Developer” como el primero que te propuse, pero con un GIF de programación más innovador y “loco” al final para darle ese toque único y divertido que buscas.
-
-Siéntete libre de ajustar los enlaces, lenguajes o cualquier detalle personal.
-
-````markdown name=README.md
 <h1 align="center">Full-Stack Developer 🚀</h1>
 
 <p align="center">
@@ -63,4 +58,3 @@ Siéntete libre de ajustar los enlaces, lenguajes o cualquier detalle personal.
   <!-- GIF innovador y loco de programación -->
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="350" alt="Crazy Programming GIF" />
 </p>
-````
