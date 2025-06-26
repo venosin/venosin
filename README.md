@@ -23,9 +23,10 @@
 
 ## 💼 Experiencia Profesional
 
-- 🔒 **App de Formulario de Clientes**  
-  Frontend privado conectado a Google Sheets mediante Apps Script. Todo el formulario se guarda automáticamente en la hoja.  
-  *Frontend | React + Tailwind*
+- 🔥 [**IGNIS - Desktop**](https://github.com/venosin/IGNIS-Desktop.git)  
+  [**IGNIS - Android App**](https://github.com/venosin/IGNIS---Android-App.git)  
+  Aplicación multiplataforma desarrollada tanto para **desktop** como para **mobile**. Versión desktop construida con **Java** y versión móvil con **Kotlin**.  
+  *Desarrollo Multiplataforma | Java + Kotlin*
 
 - 🍽️ [**Foodies**](https://github.com/venosin/foodiescd.git)  
   Sitio web para restaurante. Creé toda la estructura de la página con **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.  
