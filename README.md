@@ -1,4 +1,13 @@
-<h1 align="center">Full-Stack Developer 🚀</h1>
+<h1 align="center">Full-Stack Developer 🚀 | venosin</h1>
+
+<p align="center">
+  <b>"Código limpio. Diseño brillante. Impacto real."</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+venosin;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
@@ -12,12 +21,26 @@
 
 ---
 
+## 🚀 En 3 palabras:
+**Creativo**, **Curioso**, **Persistente**
+
+---
+
 ## 🧠 About Me
 
 💻 Soy un desarrollador en formación con experiencia previa usando **React, TypeScript y Tailwind CSS** para crear interfaces modernas.  
 🧪 Enfocado en el desarrollo full-stack con **MERN** y pasión por crear **aplicaciones útiles, visuales y funcionales**.  
 🎨 Me motiva trabajar en la experiencia de usuario (UX) y la estructura limpia del código.  
 🚀 Siempre buscando retos reales para crecer y aportar soluciones.
+
+---
+
+## 🧰 Mi Caja de Herramientas
+- ⚛️ **React, Next.js, Vite** → Interfaces modernas & dinámicas
+- 🎨 **Tailwind CSS, TypeScript** → Diseños elegantes & escalables
+- 🛠️ **Node.js, Express** → Backends rápidos y eficientes
+- 🗄️ **MongoDB, MySQL, SQL Server** → Datos seguros y bien gestionados
+- 📱 **Kotlin, Java, C#** → Apps robustas y multiplataforma
 
 ---
 
@@ -47,18 +70,20 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-| Frontend | Backend | Bases de Datos | Otros Lenguajes |
-|----------|---------|----------------|-----------------|
-| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![C#](https://skillicons.dev/icons?i=cs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![sqlserver](https://skillicons.dev/icons?i=sqlserver) | ![C++](https://skillicons.dev/icons?i=cpp) |
-
 ## 🦷 Proyecto en Desarrollo: OmegaDent
 
 > Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
 > Incluye **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** con conexión al backend.  
 >  
 > ⚙️ *Stack:* MERN + Tailwind CSS
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venosin&theme=tokyonight&row=2&column=3" />
+</p>
 
 ---
 
@@ -69,6 +94,28 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=venosin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com/?user=venosin&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## 🎮 Pasatiempos
+- 🚴‍♂️ Ciclismo
+- 🎮 Videojuegos indie y retro
+- 📚 Lectura de tecnología y diseño UX
+
+---
+
+## 🗝️ Mi frase personal:
+> “El mejor código es el que nunca deja de mejorar.” — venosin
+
+---
+
+<details>
+  <summary>🌟 ¿Sabías qué?</summary>
+  
+  - Mi primer proyecto fue un *script* que solo decía "Hola Mundo"... ¡ahora hago sistemas completos!
+  - Siempre programo con música de fondo: 🎧 Synthwave o LoFi.
+  - Fun fact: ¡He roto más proyectos por un "console.log" olvidado que por errores de código!
+</details>
 
 ---
 
