@@ -52,7 +52,6 @@
 | Frontend | Backend | Bases de Datos | Otros Lenguajes |
 |----------|---------|----------------|-----------------|
 | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![C#](https://skillicons.dev/icons?i=cs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![sqlserver](https://skillicons.dev/icons?i=sqlserver) | ![C++](https://skillicons.dev/icons?i=cpp) |
-
 ## 🦷 Proyecto en Desarrollo: OmegaDent
 
 > Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
