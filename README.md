@@ -1,7 +1,4 @@
-¡Perfecto! Aquí tienes tu README con el mismo formato original que me enviaste pero añadiendo la sección innovadora del “Terminal Script” justo al inicio (antes del “About Me”), sin alterar tu estructura visual, manteniendo la coherencia total.
-
 <h1 align="center">Full-Stack Developer 🚀</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+venosin;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
@@ -15,91 +12,57 @@
 
 ---
 
-## 🖥️ Terminal Session
+## 🧠 About Me
 
-```bash
-$ whoami
-venosin - Full Stack Developer 🚀
-
-$ echo "¡Bienvenido a mi mundo de código!"
-¡Bienvenido a mi mundo de código!
-
-$ npx venosin --about
-🔸 Full-Stack Developer especializado en React, Node.js y bases de datos
-🔸 Apasionado por la tecnología, UX y la creación de proyectos útiles
-🔸 Siempre en busca de nuevos desafíos 🚀
-
-
-⸻
-
-🧠 About Me
-
-💻 Soy un desarrollador en formación con experiencia previa usando React, TypeScript y Tailwind CSS para crear interfaces modernas.
-🧪 Enfocado en el desarrollo full-stack con MERN y pasión por crear aplicaciones útiles, visuales y funcionales.
-🎨 Me motiva trabajar en la experiencia de usuario (UX) y la estructura limpia del código.
+💻 Soy un desarrollador en formación con experiencia previa usando **React, TypeScript y Tailwind CSS** para crear interfaces modernas.  
+🧪 Enfocado en el desarrollo full-stack con **MERN** y pasión por crear **aplicaciones útiles, visuales y funcionales**.  
+🎨 Me motiva trabajar en la experiencia de usuario (UX) y la estructura limpia del código.  
 🚀 Siempre buscando retos reales para crecer y aportar soluciones.
 
-⸻
+---
 
-💼 Experiencia Profesional
-	•	🔥 IGNIS - Desktop
-IGNIS - Android App
-Aplicación multiplataforma desarrollada tanto para desktop como para mobile. Versión desktop construida con Java y versión móvil con Kotlin.
-Desarrollo Multiplataforma | Java + Kotlin
-	•	🍽️ Foodies
-Sitio web para restaurante. Creé toda la estructura de la página con Next.js, React, TypeScript y Tailwind CSS.
-Frontend completo
-	•	📋 WorkBuddy - Backend
-WorkBuddy - Frontend
-Trabajo profesional con el stack MERN, donde implementé funcionalidades tanto en frontend como en backend.
-Full-Stack (MongoDB, Express, React, Node.js)
+## 💼 Experiencia Profesional
 
-⸻
+- 🔥 [**IGNIS - Desktop**](https://github.com/venosin/IGNIS-Desktop.git)  
+  [**IGNIS - Android App**](https://github.com/venosin/IGNIS---Android-App.git)  
+  Aplicación multiplataforma desarrollada tanto para **desktop** como para **mobile**. Versión desktop construida con **Java** y versión móvil con **Kotlin**.  
+  *Desarrollo Multiplataforma | Java + Kotlin*
 
-📌 Pinned Project Preview: Foodies
+- 🍽️ [**Foodies**](https://github.com/venosin/foodiescd.git)  
+  Sitio web para restaurante. Creé toda la estructura de la página con **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.  
+  *Frontend completo*
 
-🔗 Ver repositorio
+- 📋 [**WorkBuddy - Backend**](https://github.com/venosin/WorkBuddy-backend.git)  
+  [**WorkBuddy - Frontend**](https://github.com/venosin/workbuddy-frontend.git)  
+  Trabajo profesional con el stack **MERN**, donde implementé funcionalidades tanto en frontend como en backend.  
+  *Full-Stack (MongoDB, Express, React, Node.js)*
+
+---
+
+## 📌 Pinned Project Preview: Foodies
+
+[🔗 Ver repositorio](https://github.com/venosin/foodiescd.git)
 
 <img src="https://raw.githubusercontent.com/venosin/foodiescd/main/public/foodies.webp" alt="Foodies Preview" width="400px" style="border-radius: 10px;" />
 
+---
 
+## ⚙️ Tech Stack
 
-⸻
+| Frontend | Backend | Bases de Datos | Otros Lenguajes |
+|----------|---------|----------------|-----------------|
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![C#](https://skillicons.dev/icons?i=cs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![sqlserver](https://skillicons.dev/icons?i=sqlserver) | ![C++](https://skillicons.dev/icons?i=cpp) |
 
-⚙️ Tech Stack
+## 🦷 Proyecto en Desarrollo: OmegaDent
 
-Frontend	Backend	Bases de Datos	Otros Lenguajes
- 
+> Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
+> Incluye **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** con conexión al backend.  
+>  
+> ⚙️ *Stack:* MERN + Tailwind CSS
 
- 
+---
 
- 
-
- 
-
- 	 
-
- 
-
- 
-
- 	 
-
- 	
-
-
-⸻
-
-🦷 Proyecto en Desarrollo: OmegaDent
-
-Sitio web profesional para una clínica dental, diseñado para mejorar la experiencia del paciente.
-Incluye landing page pública, sistema de registro, inicio de sesión y agendamiento de citas con conexión al backend.
-
-⚙️ Stack: MERN + Tailwind CSS
-
-⸻
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venosin&layout=compact&theme=tokyonight&hide_border=true" />
@@ -107,11 +70,9 @@ Incluye landing page pública, sistema de registro, inicio de sesión y agendami
   <img height="170" src="https://streak-stats.demolab.com/?user=venosin&theme=tokyonight&hide_border=true" />
 </div>
 
+---
 
-
-⸻
-
-📩 Get in Touch
+## 📩 Get in Touch
 
 <p align="center">
   <a href="mailto:steven0palacios@gmail.com">
