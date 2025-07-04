@@ -47,24 +47,10 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-## ⚙️ Tech Stack
-
-<div align="center">
-  
-  ### 🖥️ Frontend
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,typescript,wordpress" alt="Frontend Stack" /><br><br>
-  
-  ### 🔙 Backend
-  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,kotlin,cs,java" alt="Backend Stack" /><br><br>
-  
-  ### 💾 Bases de Datos
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlserver" alt="Database Stack" /><br><br>
-  
-  ### 🛠️ Otros Lenguajes y Herramientas
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vercel" alt="Other Stack" /><br>
-
+| Frontend | Backend | Bases de Datos | Otros Lenguajes |
+|----------|---------|----------------|-----------------|
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![C#](https://skillicons.dev/icons?i=cs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![sqlserver](https://skillicons.dev/icons?i=sqlserver) | ![C++](https://skillicons.dev/icons?i=cpp) |
+## 🦷 Proyecto en Desarrollo: OmegaDent
 </div>
 
 
