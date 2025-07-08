@@ -55,12 +55,6 @@
 
 </div>
 
-
-> Sitio web profesional para una **clínica dental**, diseñado para mejorar la experiencia del paciente.  
-> Incluye **landing page pública**, sistema de **registro, inicio de sesión** y **agendamiento de citas** con conexión al backend.  
->  
-> ⚙️ *Stack:* MERN + Tailwind CSS
-
 ---
 
 ## 📊 GitHub Stats
