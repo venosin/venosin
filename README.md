@@ -10,8 +10,7 @@
   <a href="https://discordapp.com/users/.venosin"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
-
+----
 ## 🧠 About Me
 
 💻 Soy un desarrollador en formación con experiencia previa usando **React, TypeScript y Tailwind CSS** para crear interfaces modernas.  
